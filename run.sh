@@ -1,0 +1,1 @@
+java -jar target/timestamp-tool.jar
